@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Worques
 - 👀 I’m interested in cybersecurity & privacy, web3, NFTs.
-- 🌱 I’m currently learning HTML/CSS/JS (building on what I've learned at Uni in the past)
-- 💞️ I’m looking to collaborate on things that will help me learn faster
+- 🌱 I’m currently working mainly with Nuxt
+- 💞️ You can find me on GitLab too https://gitlab.com/Worques
 - 📫 You can contact me at: "worques@proton.me"
 
 <!---
